@@ -6,7 +6,7 @@
     display: inline-block;
 }
 
-.recipe {
+.recipe, rable, th, td {
     font-size: 24px;
 }
 
@@ -20,4 +20,9 @@
 
 .circle.empty {
     color: #dddddd;
+}
+
+th, td {
+    width: 200px;
+    text-align: left;
 }
