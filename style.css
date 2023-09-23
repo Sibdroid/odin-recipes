@@ -6,7 +6,7 @@
     display: inline-block;
 }
 
-.recipe, rable, th, td {
+.recipe, th, td, #Greeting {
     font-size: 24px;
 }
 
@@ -25,4 +25,8 @@
 th, td {
     width: 160px;
     text-align: left;
+}
+
+p, h1 {
+    margin: 0;
 }
