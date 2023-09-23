@@ -1,0 +1,23 @@
+* {
+    font-family: Roboto, sans-serif;
+}
+
+.recipe, .circle {
+    display: inline-block;
+}
+
+.recipe {
+    font-size: 24px;
+}
+
+.circle {
+    font-size: 26px;
+}
+
+.circle.full {
+    color: #4464AD;
+}
+
+.circle.empty {
+    color: #dddddd;
+}
